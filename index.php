@@ -5,7 +5,7 @@
 ?>
 </head>
 <body>
-    <h1>Pearse is da bomb dot com</h1>
+    <h1>Pearse is judging me</h1>
     <p>I definitely deserve this!!!!</p>
     <?php
         $connection = new PDO('mysql:host=localhost;dbname=world', 'root', nUmb3rtHr33);
@@ -15,4 +15,3 @@
     ?>
 </body>
 </html>
-
