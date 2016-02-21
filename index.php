@@ -8,7 +8,7 @@
     <div class="container">
     	<div class="row">
     		<h1>HackIllinois To-Do App</h1>
-    		<ul id="taskList">
+    		<ul id="taskList" class='list-unstyled'>
     		</ul>
     	</div>	
     </div>
